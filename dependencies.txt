@@ -1,4 +1,4 @@
-dotenv_values
+python-dotenv
 pandas
 rpaframework
 xlsxwriter

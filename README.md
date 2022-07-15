@@ -4,7 +4,7 @@ Projeto em Python que realiza a coleta de dados de forma automática
 
 ## Pacotes Python necessários: 
 
-    dotenv_values
+    python-dotenv
     pandas
     rpaframework
     xlsxwriter
