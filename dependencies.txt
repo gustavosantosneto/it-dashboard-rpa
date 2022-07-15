@@ -1,0 +1,4 @@
+dotenv_values
+pandas
+rpaframework
+xlsxwriter
